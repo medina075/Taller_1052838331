@@ -19,7 +19,7 @@ De forma privada, Linus nombraba Linux a su nuevo sistema, pero cuando decidió 
 A partir de 2006, se estima que aproximadamente el dos por ciento del kernel de Linux fue escrito por el propio Torvalds. 7​ Debido a que miles de personas han contribuido al kernel de Linux, este porcentaje es una de las mayores contribuciones al mismo. Sin embargo, declaró en 2012 que su propia contribución personal ahora es principalmente un código de fusión escrito por otros, con poca programación. 8​ Torvalds conserva la máxima autoridad para decidir qué nuevo código se incorpora al núcleo estándar de Linux. 9​
 
 Biografía
--------------------------
+--------------------------
 Torvalds pertenece a la comunidad sueco-parlante de Finlandia. Sus padres tomaron su nombre de Linus Pauling (estadounidense, Premio Nobel de Química 1954). Comenzó sus andanzas informáticas a los 11 años cuando su abuelo, un matemático y estadístico de la Universidad, compró uno de los primeros microordenadores Commodore en 1980 y le pidió ayuda para usarlo;3​ de esta manera su primera línea de código fue hecha en lenguaje BASIC.4​
 
 
