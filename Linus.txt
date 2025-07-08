@@ -4,7 +4,24 @@ Linus Benedict Torvalds (Helsinki, Finlandia, 28 de diciembre de 19691​) es un
 
 Autoría y marca registrada
 ---------------------------
+Creación de Linux
+--------------------------
+En Finlandia, Linus Torvalds, por entonces estudiante de Ciencias de la Computación de la Universidad de Helsinki, decidió realizar la entonces cuantiosa inversión de 3500 dólares estadounidenses para adquirir un nuevo ordenador con el microprocesador 80386 de Intel, el cual funcionaba a 33 MHz y tenía 4 MB de memoria RAM. El pago lo realizaría a plazos, pues no disponía de tal cantidad de dinero en efectivo.
+
+Normalmente, este ordenador lo usaba para tener acceso por línea telefónica a la red informática de su Universidad, pero debido a que no le gustaba el sistema operativo con el cual trabajaba, denominado Minix, decidió crear uno él mismo. Inicialmente, escribió un programa con lenguaje de bajo nivel prescindiendo de Minix. En los primeros intentos, consiguió arrancar el ordenador y ejecutar dos procesos que mostraban la cadena de caracteres “AAAAABBBBB”. Uno lo utilizaría para leer desde el módem y escribir en la pantalla, mientras que el otro escribiría al módem y leería desde el teclado. Inicialmente, el programa arrancaba desde un disquete.
+
+La siguiente necesidad que tuvo fue la de poder descargar y subir archivos de su universidad, pero para implementar esta funcionalidad en el software emulador era necesario crear un controlador de disco. Así que después de un trabajo continuo y duro, creó un controlador compatible con el sistema de archivos de Minix. En ese momento, se percató de que estaba creando algo más que un simple emulador de terminal, así que, emprendió la tarea de crear un sistema operativo partiendo de cero.
+
+De forma privada, Linus nombraba Linux a su nuevo sistema, pero cuando decidió hacer una presentación pública pensó que era demasiado egocéntrico llamarlo así y propuso llamarlo Freax, aunque después se le siguió conociendo como Linux, práctica que perdura hasta ahora.
+
+
+
 A partir de 2006, se estima que aproximadamente el dos por ciento del kernel de Linux fue escrito por el propio Torvalds. 7​ Debido a que miles de personas han contribuido al kernel de Linux, este porcentaje es una de las mayores contribuciones al mismo. Sin embargo, declaró en 2012 que su propia contribución personal ahora es principalmente un código de fusión escrito por otros, con poca programación. 8​ Torvalds conserva la máxima autoridad para decidir qué nuevo código se incorpora al núcleo estándar de Linux. 9​
+
+Biografía
+--------------------------
+Torvalds pertenece a la comunidad sueco-parlante de Finlandia. Sus padres tomaron su nombre de Linus Pauling (estadounidense, Premio Nobel de Química 1954). Comenzó sus andanzas informáticas a los 11 años cuando su abuelo, un matemático y estadístico de la Universidad, compró uno de los primeros microordenadores Commodore en 1980 y le pidió ayuda para usarlo;3​ de esta manera su primera línea de código fue hecha en lenguaje BASIC.4​
+
 
 Reconocimiento
 -------------------------------------------------------------------------------------
